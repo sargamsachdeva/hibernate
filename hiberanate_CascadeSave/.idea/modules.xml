@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiberanate_CascadeSave.iml" filepath="$PROJECT_DIR$/.idea/modules/hiberanate_CascadeSave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiberanate_CascadeSave_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hiberanate_CascadeSave_main.iml" group="hiberanate_CascadeSave" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiberanate_CascadeSave_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hiberanate_CascadeSave_test.iml" group="hiberanate_CascadeSave" />
+    </modules>
+  </component>
+</project>
